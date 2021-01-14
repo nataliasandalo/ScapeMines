@@ -1,0 +1,11 @@
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\bin\Debug\netcoreapp2.1\EscapeMines.Domain.deps.json
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\bin\Debug\netcoreapp2.1\EscapeMines.Domain.runtimeconfig.json
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\bin\Debug\netcoreapp2.1\EscapeMines.Domain.runtimeconfig.dev.json
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\bin\Debug\netcoreapp2.1\EscapeMines.Domain.dll
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\bin\Debug\netcoreapp2.1\EscapeMines.Domain.pdb
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\obj\Debug\netcoreapp2.1\EscapeMines.Domain.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\obj\Debug\netcoreapp2.1\EscapeMines.Domain.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\obj\Debug\netcoreapp2.1\EscapeMines.Domain.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\obj\Debug\netcoreapp2.1\EscapeMines.Domain.dll
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\obj\Debug\netcoreapp2.1\EscapeMines.Domain.pdb
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Domain\obj\Debug\netcoreapp2.1\EscapeMines.Domain.csprojAssemblyReference.cache

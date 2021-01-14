@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EscapeMines.Domain.Test", "test\EscapeMines.Domain.Test\EscapeMines.Domain.Test.csproj", "{6B3430D9-02A5-4047-9504-0BEB973D86B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EscapeMines.Domain", "src\EscapeMines.Domain\EscapeMines.Domain.csproj", "{66221A6D-6150-4E99-AD75-ABDCEB17A98A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EscapeMines.Data", "src\EscapeMines.Data\EscapeMines.Data.csproj", "{98980527-23A4-4417-9893-D3B71FAD51A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EscapeMines.Ioc", "src\EscapeMines.Ioc\EscapeMines.Ioc.csproj", "{40E15334-F47D-4DF6-B8E3-CA47E78930E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeMines", "src\EscapeMines\EscapeMines.csproj", "{261E5AE1-7C7F-4C19-BC2B-1E0DE5594F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeMines.Game", "src\EscapeMines.Game\EscapeMines.Game.csproj", "{AEF6BFCF-1B82-47B3-AC89-F247F10DB799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B3430D9-02A5-4047-9504-0BEB973D86B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3430D9-02A5-4047-9504-0BEB973D86B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3430D9-02A5-4047-9504-0BEB973D86B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3430D9-02A5-4047-9504-0BEB973D86B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66221A6D-6150-4E99-AD75-ABDCEB17A98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66221A6D-6150-4E99-AD75-ABDCEB17A98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66221A6D-6150-4E99-AD75-ABDCEB17A98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66221A6D-6150-4E99-AD75-ABDCEB17A98A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98980527-23A4-4417-9893-D3B71FAD51A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98980527-23A4-4417-9893-D3B71FAD51A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98980527-23A4-4417-9893-D3B71FAD51A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98980527-23A4-4417-9893-D3B71FAD51A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E15334-F47D-4DF6-B8E3-CA47E78930E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E15334-F47D-4DF6-B8E3-CA47E78930E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E15334-F47D-4DF6-B8E3-CA47E78930E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E15334-F47D-4DF6-B8E3-CA47E78930E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261E5AE1-7C7F-4C19-BC2B-1E0DE5594F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261E5AE1-7C7F-4C19-BC2B-1E0DE5594F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261E5AE1-7C7F-4C19-BC2B-1E0DE5594F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261E5AE1-7C7F-4C19-BC2B-1E0DE5594F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF6BFCF-1B82-47B3-AC89-F247F10DB799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF6BFCF-1B82-47B3-AC89-F247F10DB799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF6BFCF-1B82-47B3-AC89-F247F10DB799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF6BFCF-1B82-47B3-AC89-F247F10DB799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D0FD19A-9EE1-4C3F-B464-003E567B0C83}
+	EndGlobalSection
+EndGlobal

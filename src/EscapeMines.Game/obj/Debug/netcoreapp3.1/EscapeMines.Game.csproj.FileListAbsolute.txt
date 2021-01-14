@@ -1,0 +1,9 @@
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Game\bin\Debug\netcoreapp3.1\EscapeMines.Game.deps.json
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Game\bin\Debug\netcoreapp3.1\EscapeMines.Game.dll
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Game\bin\Debug\netcoreapp3.1\EscapeMines.Game.pdb
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Game\obj\Debug\netcoreapp3.1\EscapeMines.Game.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Game\obj\Debug\netcoreapp3.1\EscapeMines.Game.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Game\obj\Debug\netcoreapp3.1\EscapeMines.Game.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Game\obj\Debug\netcoreapp3.1\EscapeMines.Game.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Game\obj\Debug\netcoreapp3.1\EscapeMines.Game.dll
+C:\Users\natal\OneDrive\Área de Trabalho\EscapeMines\EscapeMines\src\EscapeMines.Game\obj\Debug\netcoreapp3.1\EscapeMines.Game.pdb
